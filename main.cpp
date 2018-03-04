@@ -87,7 +87,7 @@ bool compare(int i,int j) {
 }
 
 int main() {
-    Input and Output
+    // Input and Output
     int var;
     cin >> var;
     cout << var << "\n" << endl;
